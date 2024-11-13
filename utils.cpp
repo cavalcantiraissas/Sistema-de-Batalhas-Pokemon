@@ -17,6 +17,7 @@
 #include <fstream>
 #include <sstream>
 #include <random>
+#include <algorithm>
 #include <unordered_set> 
 #include <unordered_map>
 using namespace std;
